@@ -1,0 +1,18 @@
+.container11 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input-label1 {
+    margin-right: 8px;
+  }
+  
+  .range-input1 {
+    margin-right: 8px;
+  }
+  

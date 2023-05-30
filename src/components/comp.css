@@ -1,0 +1,76 @@
+.id{
+    width: 1000px;
+   
+    background-color: rgb(162, 213, 209);
+    height: 250px;
+    box-shadow: 0px 2px 4px black;
+    display: flex;
+    
+}
+.rr{
+    width: 150px;
+    height: 190px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.hello{
+    margin-left: 20px;
+    display: flex;
+    background: rgb(247, 242, 242);
+    margin-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+     width: 700px;
+    margin-bottom: 10px;
+    
+}
+.ii{
+   background-color: green;
+    color: aliceblue;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.iii{
+    margin-left: 10px;
+    background-color: rgb(202, 56, 180);
+    color: aliceblue;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.id1{
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-left: 40px;
+}
+.B1{
+    background-color: rgb(247, 242, 242);
+    color: rgb(113, 113, 208);
+    cursor: pointer;
+    border: none;
+    width: 70px;
+    height: 35px;
+    margin-top: 20px;
+}
+.B3{
+    background-color: rgb(121, 121, 223);
+    color: aliceblue;
+    width: 70px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px black;
+    cursor: pointer;
+}
+.B2{
+    margin-top: 20px;
+    background-color: rgb(247, 242, 242);
+    border-color: rgb(141, 141, 182);
+    cursor: pointer;
+    width: 70px;
+    height: 35px;
+   font-weight: 200;
+   border-radius: 5px;
+}
+.id2{
+    margin-left: 10px;
+}

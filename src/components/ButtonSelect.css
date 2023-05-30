@@ -1,0 +1,28 @@
+.button-select {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+}
+
+.button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: blue;
+  color: white;
+}
+
+.button-select2 {
+  display: flex;
+  
+  width: 300px;
+  position: absolute;
+  
+  left: -700px; ;
+  margin-top: -10px;
+}
